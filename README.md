@@ -75,6 +75,8 @@ Constraints : Only the computer can select the number and you have to guess it a
 - Added Guess Counter.
 - For advanced version of this project refer to Guess the Number - Advanced (Python)
 
+<hr />
+
 ## 5. Guess the Number - Advanced(Python) (Last Updated : Ongoing)
 
 Exe Link : [Github](#) / [Google Drive](#)
