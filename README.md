@@ -41,7 +41,22 @@ Geeks like us like to sit around and play virtual games, how about a virtual dic
 
 <hr />
 
-## 3.
+## 3. Expression Based Calculator (Last updated : 10-05-2021)
+
+Exe link : [Github](https://github.com/taaaahahaha/exe/blob/72968496dc1a0ad8f5d23fa376c25f3686e34ce4/ExpCalci/ExpCalci.exe) / [Google Drive](https://drive.google.com/file/d/1Sbm2LvtFsRfzxup4kHjFM0O0TIl5bpmA/view?usp=sharing)
+
+Language used : Python
+
+A basic expression based calculator supporting only Addition,Substraction,Multiplication,Division,Modulus.
+
+Constraints : 2 Numbers at a time.
+
+### Updates:
+
+- Fix : Minor bugs.
+- Large calculations now supported.
+
+<hr />
 
 
 
@@ -72,7 +87,7 @@ Geeks like us like to sit around and play virtual games, how about a virtual dic
 
 - __For Windows defender notification, go to more info and tap Run Anyway__
 
-- __For help/queries : taaha.m@somaiya.edu__
+- __For help/queries : [taaha.m@somaiya.edu](mailto:taaha.m@somaiya.edu)__
 
 
 
