@@ -91,7 +91,7 @@ If, you guess a number lesser than the selected number, it will respond with "Hi
 ### Updates :
 
 -  You can define your own range(Not necessarily 1-100).
--  Now Computers can guess too.
+-  Now, computers can guess too.
 -  If you feel computer is taking too long to guess, you can bail out.
 
 
