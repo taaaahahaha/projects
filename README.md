@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/taaaahahaha/projs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 1. TicTacToe (Last updated : 13-07-2021)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Exe link : [Github](https://github.com/taaaahahaha/exe/blob/7d3ad6231ca5dab3594db8c974ad54b2f442bf62/TicTacToe/TicTacToe.exe) / [Google drive](https://drive.google.com/file/d/1BMqRJfgT4-fqPxP4RgKhqElZUCYP0GyP/view?usp=sharing)
 
-```markdown
-Syntax highlighted code block
+Language used : Python3
 
-# Header 1
-## Header 2
-### Header 3
+A 90's era game played with 'X' and 'O's but with a computer.
 
-- Bulleted
-- List
+Can you win?
 
-1. Numbered
-2. List
+Difficulty : Medium 
 
-**Bold** and _Italic_ and `Code` text
+### Updates:
 
-[Link](url) and ![Image](src)
-```
+- Algorithm fix : Errors for space already occupied and wrong input.
+- Added About the game, Copyright credits.
+- Fix : Window closed immediately after execution.
+- Added a scoring system.
+- Added time module to delay computer's move by 0.7s.
+- Added slowprint module to print with delay.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<hr />
 
-### Jekyll Themes
+## 2. Dice Simulator (Last updated : 10-07-2021)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taaaahahaha/projs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Exe link : [Github](https://github.com/taaaahahaha/exe/blob/e2cb6e57c4c59962aff2ebf81d9b27f1d3a8aaf3/DiceSimulator/DiceSimulator.exe) / [Google Drive](https://drive.google.com/file/d/1Mwp7Zo8-VYc7so0ZuCFL8_aGmJUCM1r3/view?usp=sharing)
 
-### Support or Contact
+Language used : Python
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Geeks like us like to sit around and play virtual games, how about a virtual dice?
+
+### Updates:
+
+- Fix : Lower/uppercase input.
+- Fix : You can exit only via 'q'/'Q'.
+- Added slowprint module for smooth-experience.
+
+<hr />
+
+## 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr />
+
+## How to download?
+
+- __Tap on the link provided for its executable file__
+
+- __Download .exe via GitHub/Gdrive__
+
+- __They are just scripts converted to executable codes and not Viruses__
+
+- __For Windows defender notification, go to more info and tap Run Anyway__
+
+- __For help/queries : taaha.m@somaiya.edu__
+
+
+
+<hr />
+
+
