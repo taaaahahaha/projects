@@ -6,7 +6,7 @@
 
 Exe link : [Github](https://github.com/taaaahahaha/exe/blob/7d3ad6231ca5dab3594db8c974ad54b2f442bf62/TicTacToe/TicTacToe.exe) / [Google drive](https://drive.google.com/file/d/1BMqRJfgT4-fqPxP4RgKhqElZUCYP0GyP/view?usp=sharing)
 
-Language used : Python3
+Language used : Python
 
 A 90's era game played with 'X' and 'O's but with a computer.
 
@@ -58,12 +58,38 @@ Constraints : 2 Numbers at a time.
 
 <hr />
 
+## 4. Random Number Guess Game - Basic(c) (Last Updated : 23-03-2021)
 
+Exe Link : [Github](https://github.com/taaaahahaha/exe/blob/14ee29883e634a2487f00d7df8a1eb61f1ced98b/RandGuessC/RandomNumberGuesser.exe) / [Google Drive](https://drive.google.com/file/d/19XpAV_CCLfHvOWr-i7GWYiL1AOm1kiXA/view?usp=sharing)
 
+Language used : C
 
+Computer will guess a number between 1-100 inclusive and you have to guess it in minimum guesses.
 
+If, you guess a number lesser than the selected number, it will respond with "Higher number please" and vice versa.
 
+Constraints : Only the computer can select the number and you have to guess it and not vice versa. 
 
+### Updates:
+
+- Added Guess Counter.
+- For advanced version of this project refer to Guess the Number - Advanced (Python)
+
+## 5. Guess the Number - Advanced(Python) (Last Updated : Ongoing)
+
+Exe Link : [Github](#) / [Google Drive](#)
+
+Language used : Python
+
+Computer will guess a number between 1-100 inclusive and you have to guess it in minimum guesses.
+
+If, you guess a number lesser than the selected number, it will respond with "Higher number please" and vice versa.
+
+### Updates :
+
+-  You can define your own range(Not necessarily 1-100).
+-  Now Computers can guess too.
+-  If you feel computer is taking too long to guess, you can bail out.
 
 
 
