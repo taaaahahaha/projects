@@ -80,7 +80,7 @@ Constraints : Only the computer can select the number and you have to guess it a
 
 ## 5. Guess the Number - Advanced(Python) (Last Updated : Ongoing)
 
-Exe Link : [Github](#) / [Google Drive](#)
+Exe Link : [Github](https://github.com/taaaahahaha/exe/blob/7144a1dcaf5a20e64367363f7e21aab04377ebcb/GuessGame(Adv)/GTNA.exe) / [Google Drive](https://drive.google.com/file/d/13giQeBR4GvV1bMAsSi5PJoB6W6E4otHH/view?usp=sharing)
 
 Language used : Python
 
