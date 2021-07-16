@@ -48,7 +48,7 @@ Exe link : [Github](https://github.com/taaaahahaha/exe/blob/72968496dc1a0ad8f5d2
 
 Language used : Python
 
-A basic expression based calculator supporting only Addition,Substraction,Multiplication,Division,Modulus.
+A basic expression based calculator supporting only Addition, Substraction, Multiplication, Division, Modulus.
 
 Constraints : 2 Numbers at a time.
 
@@ -84,18 +84,22 @@ Exe Link : [Github](#) / [Google Drive](#)
 
 Language used : Python
 
-Computer will guess a number between 1-100 inclusive and you have to guess it in minimum guesses.
+Computer/User will guess a number between 1-100(or desired range) inclusive and the opposite has to guess it in minimum guesses.
 
-If, you guess a number lesser than the selected number, it will respond with "Higher number please" and vice versa.
+For Computer : If, you guess a number lesser than the selected number, it will respond with "Higher number please" and vice versa.
+
+For User : Respond with 'h' or 'l'. (Instructions given)
 
 ### Updates :
 
 -  You can define your own range(Not necessarily 1-100).
--  Now, computers can guess too.
+-  Two gamemodes available.
 -  If you feel computer is taking too long to guess, you can bail out.
-
-
-
+-  Now, a player cannot cheat.
+-  Implemented time,random and slowprint modules.
+-  Guess counter.
+-  Fix: Invalid input.
+-  I can update the algorithm to bubble sort to guess the number faster,but decided not to since computers are smart anyways.
 
 
 
