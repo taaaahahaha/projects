@@ -5,7 +5,7 @@
 
 ## 1. TicTacToe (Last updated : 13-07-2021)
 
-Exe link : [Github](https://github.com/taaaahahaha/exe/blob/7d3ad6231ca5dab3594db8c974ad54b2f442bf62/TicTacToe/TicTacToe.exe) / [Google drive](https://drive.google.com/file/d/1BMqRJfgT4-fqPxP4RgKhqElZUCYP0GyP/view?usp=sharing)
+Exe link : [Github](https://github.com/taaaahahaha/exe/tree/7d3ad6231ca5dab3594db8c974ad54b2f442bf62/TicTacToe) / [Google drive](https://drive.google.com/file/d/1BMqRJfgT4-fqPxP4RgKhqElZUCYP0GyP/view?usp=sharing)
 
 Language used : Python
 
@@ -28,7 +28,7 @@ Difficulty : Medium
 
 ## 2. Dice Simulator (Last updated : 10-07-2021)
 
-Exe link : [Github](https://github.com/taaaahahaha/exe/blob/e2cb6e57c4c59962aff2ebf81d9b27f1d3a8aaf3/DiceSimulator/DiceSimulator.exe) / [Google Drive](https://drive.google.com/file/d/1Mwp7Zo8-VYc7so0ZuCFL8_aGmJUCM1r3/view?usp=sharing)
+Exe link : [Github](https://github.com/taaaahahaha/exe/tree/e2cb6e57c4c59962aff2ebf81d9b27f1d3a8aaf3/DiceSimulator) / [Google Drive](https://drive.google.com/file/d/1Mwp7Zo8-VYc7so0ZuCFL8_aGmJUCM1r3/view?usp=sharing)
 
 Language used : Python
 
@@ -44,7 +44,7 @@ Geeks like us like to sit around and play virtual games, how about a virtual dic
 
 ## 3. Expression Based Calculator (Last updated : 10-05-2021)
 
-Exe link : [Github](https://github.com/taaaahahaha/exe/blob/72968496dc1a0ad8f5d23fa376c25f3686e34ce4/ExpCalci/ExpCalci.exe) / [Google Drive](https://drive.google.com/file/d/1Sbm2LvtFsRfzxup4kHjFM0O0TIl5bpmA/view?usp=sharing)
+Exe link : [Github](https://github.com/taaaahahaha/exe/blob/72968496dc1a0ad8f5d23fa376c25f3686e34ce4/ExpCalci) / [Google Drive](https://drive.google.com/file/d/1Sbm2LvtFsRfzxup4kHjFM0O0TIl5bpmA/view?usp=sharing)
 
 Language used : Python
 
@@ -61,7 +61,7 @@ Constraints : 2 Numbers at a time.
 
 ## 4. Random Number Guess Game - Basic(c) (Last Updated : 23-03-2021)
 
-Exe Link : [Github](https://github.com/taaaahahaha/exe/blob/14ee29883e634a2487f00d7df8a1eb61f1ced98b/RandGuessC/RandomNumberGuesser.exe) / [Google Drive](https://drive.google.com/file/d/19XpAV_CCLfHvOWr-i7GWYiL1AOm1kiXA/view?usp=sharing)
+Exe Link : [Github](https://github.com/taaaahahaha/exe/blob/14ee29883e634a2487f00d7df8a1eb61f1ced98b/RandGuessC) / [Google Drive](https://drive.google.com/file/d/19XpAV_CCLfHvOWr-i7GWYiL1AOm1kiXA/view?usp=sharing)
 
 Language used : C
 
@@ -80,7 +80,7 @@ Constraints : Only the computer can select the number and you have to guess it a
 
 ## 5. Guess the Number - Advanced(Python) (Last Updated : Ongoing)
 
-Exe Link : [Github](https://github.com/taaaahahaha/exe/blob/7144a1dcaf5a20e64367363f7e21aab04377ebcb/GuessGame(Adv)/GTNA.exe) / [Google Drive](https://drive.google.com/file/d/13giQeBR4GvV1bMAsSi5PJoB6W6E4otHH/view?usp=sharing)
+Exe Link : [Github](https://github.com/taaaahahaha/exe/blob/7144a1dcaf5a20e64367363f7e21aab04377ebcb/GuessGame(Adv)) / [Google Drive](https://drive.google.com/file/d/13giQeBR4GvV1bMAsSi5PJoB6W6E4otHH/view?usp=sharing)
 
 Language used : Python
 
